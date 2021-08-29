@@ -2,3 +2,13 @@
   font-family: sans-serif;
   text-align: center;
 }
+input {
+  width: 20rem;
+  height: 2rem;
+
+  border-block-end-color: black;
+}
+body {
+  background-color: yellowgreen;
+}
+
